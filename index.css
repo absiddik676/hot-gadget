@@ -1,0 +1,59 @@
+.container{
+   
+   margin-top: 20px;
+}
+.b-buy{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    padding: 4px 35px;
+    border: 1px black;
+  
+}
+.p-buy{
+   
+    font-weight: bold;
+}
+.mac{
+    font-weight: bolder;
+}
+.card-title{
+    font-weight: bold;
+    text-align: center;
+}
+.card-text{
+    text-align: center;
+}
+.footer{
+     
+        padding: var(--bs-card-cap-padding-y) var(--bs-card-cap-padding-x);
+        color: var(--bs-card-cap-color);
+        background-color: var(--bs-card-cap-bg);
+        border-top: none ;
+}
+.{
+    border-color: white;
+}
+.see{
+    color: rgb(209, 156, 43);
+    font-weight: bold;
+}
+
+.cate{
+    margin-top: 90px;
+}
+.sid img{
+    width: 170px;
+}
+#sub{
+    background-color: rgb(231, 128, 124);
+    border-radius: 10px;
+    padding: 20px 10px;
+    margin-bottom: 30px;
+    height: 250px;
+    justify-content: center;
+}
+.catago{
+    font-weight: bold;
+    color:rgb(231, 128, 124) ;
+}
